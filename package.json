@@ -1,0 +1,24 @@
+{
+  "name": "minggu-03",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo \"No build specified\" && exit 1",
+    "test": "echo \"No test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isnizuliani/minggu-03.git"
+  },
+  "author": "Isni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isnizuliani/minggu-03/issues"
+  },
+  "homepage": "https://github.com/isnizuliani/minggu-03#readme",
+  "main": "index.js",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
